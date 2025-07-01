@@ -11,6 +11,9 @@ class Hello{
     public static void user3(){
         //user3 data - for user3 function
     }
+    public static void userRoot(){
+        //userRoot Data
+    }
     public static void merge(){
         //merge sort
     }
